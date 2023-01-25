@@ -5,8 +5,8 @@ import RegisterScreen from './Register';
 import Login from './Login';
 export default function App() {
   return (
-    <View >
-      <RegisterScreen  />
+    <View style={{flex:1}} >
+      <Home  />
     </View>
   );
 }
