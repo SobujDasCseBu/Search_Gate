@@ -45,7 +45,7 @@ const Home = () => {
          }}/>
          <Text style = {{
             fontSize:15,
-            padding:20,
+            padding:10,
             width:200,
          }}>The image is vertically centered,
           because you added flex: 1 
